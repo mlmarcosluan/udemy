@@ -34,4 +34,6 @@ Este repositório contém os recursos e exercícios do curso de Introdução a B
 ### Nota
 Este README.md está em construção e será atualizado conforme novos materiais e informações forem adicionados.
 
+[Anotações](https://colorful-salto-63e.notion.site/Introdu-o-a-Bancos-de-Dados-e-Linguagem-SQL-fceb111870e441d7a20bfe7474040fd3) feitas no Notion
+
 Se precisar de mais alguma coisa ou ajustes, é só me avisar!
